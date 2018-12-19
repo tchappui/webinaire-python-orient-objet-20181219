@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+**/__cache__
+
+*.vscode
+*.idea
+.DS_Store
+
+
